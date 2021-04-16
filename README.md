@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Valency Dickson
+
+---
+
+I’m a self taught Front-End developer; I have an in-depth knowledge in the field of Website and Web App development in the Front End part, developing Responsive web design for mobile/tablet or any display resolution.
+
+I'm always open to learn and try something new in Front-End development. I’m a fast learner, able to pick up new skills and juggle different projects and roles.
 
 <!--
 **valencydickson/valencydickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
