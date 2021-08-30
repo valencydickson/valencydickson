@@ -2,9 +2,10 @@
 
 ---
 
-I’m a self taught Front-End developer based in Dar es Salaam, Tanzania; I have an in-depth knowledge and passion in the field of Website and Web App development in the Front End part, developing Responsive web design for mobile/tablet or any display resolution.
-
-I'm always open to learn and try something new in Front-End development. I’m a fast learner, able to pick up new skills and juggle different projects and roles.
+I’m a web developer based in Dar es Salaam, Tanzania; I build websites and web apps using modern web technilogies.
+I have serious passion for website and web app design and development.
+I'm always open to learn and try something new in web development.
+I’m a fast learner, able to pick up new skills and juggle different projects and roles.
 
 ---
 
