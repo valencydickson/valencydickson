@@ -2,7 +2,7 @@
 
 ---
 
-I’m a web developer based in Dar es Salaam, Tanzania; I build websites and web apps using modern web technilogies.
+I’m a software developer based in Dar es Salaam, Tanzania; I build websites and web apps using modern web technilogies.
 I have serious passion for website and web app design and development.
 I'm always open to learn and try something new in web development.
 I’m a fast learner, able to pick up new skills and juggle different projects and roles.
@@ -21,7 +21,11 @@ I’m a fast learner, able to pick up new skills and juggle different projects a
 #### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vstudio logo" width="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator logo" width="80"/>
 
+-I'm currently learning Laravel (PHP Framework)
+
 ---
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valencydickson&theme=radical)](https://github.com/valencydickson/github-readme-stats)
 
 
