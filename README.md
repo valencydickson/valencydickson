@@ -21,7 +21,6 @@ I’m a fast learner, able to pick up new skills and juggle different projects a
 #### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress logo" width="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vstudio logo" width="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="80"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator logo" width="80"/>
 
--I'm currently learning Laravel (PHP Framework)
 
 ---
 
