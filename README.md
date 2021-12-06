@@ -4,6 +4,7 @@
 
 I’m a software developer based in Dar es Salaam, Tanzania; I build websites and web apps using modern web technilogies.
 I have serious passion for website and web app design and development.
+
 I'm always open to learn and try something new in web development.
 I’m a fast learner, able to pick up new skills and juggle different projects and roles.
 
